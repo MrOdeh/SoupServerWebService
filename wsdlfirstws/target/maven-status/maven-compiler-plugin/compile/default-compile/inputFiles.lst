@@ -1,0 +1,13 @@
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/package-info.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/main/java/com/bharath/ws/trainings/impl/CustomersOrdersWSImpl.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/Product.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/DeleteOrdersRequest.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/GetOrdersRequest.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/CustomerOrdersPortType.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/CreateOrdersRequest.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/Order.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/GetOrdersResponse.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/CreateOrdersResponse.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/DeleteOrdersResponse.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/CustomerOrdersService.java
+/home/devop/Documents/JavaMasterClass/webServicesEE/wsdlfirstws/src/generated/com/bharath/ws/trainings/ObjectFactory.java
